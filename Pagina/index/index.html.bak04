@@ -1,0 +1,118 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="description" content="toda la descripcion">
+		<meta name="keywords" content="aqui, palabras, clave">
+		<link rel="stylesheet" type="text/css" href="css/estilos.css"/>
+		<title>Nacion Halo</title>
+	
+	</head>
+
+	<body>
+
+		<header>
+			<div id="subheader">
+				<div id="logotipo"><p><a href="">Nacion Halo</a></p></div>
+				<nav>
+					<ul>
+						<li><a href="#">Inicio</a></li>
+						<li><a href="#">Galeria</a></li>
+						<li><a href="#">Acerca de</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		<section id="wrap">
+
+<section id="main">
+
+<section id="slideshow"></section>
+
+				<section id="Bienvenida">
+					<article>
+						<hgroup><h2>Bienvenido a la Nacion Halo</h2></hgroup>
+						<p>
+							<ul>
+								<li>+ Vestibulum vitae nibh a risus aliquet interdum a nec dui.</li>
+								<li>+ Nullam rutrum nibh quis eros consectetur ullamcorper.</li>
+								<li>+ Morbi mollis felis tincidunt, egestas lorem, scelerisque neque.</li>
+								<li>+ Etiam ac orci dictum diam viverra interdum.</li>
+								<li>+ Cras in tellus id elit sollicitudin efficitur nec eu urna.</li>
+							</ul>
+						</p>
+					</article>
+				</section>
+
+				<section id="contenido">
+					<article>
+						<hgroup><h2 class="titulo">El regreso de un viejo amigo</h2></hgroup>
+						<p class="fecha">14 de septiembre del 2014</p>
+						<img class="thumb" src="imagenes/halo23.png" alt="thumbail halo23"/>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat.<br /><br />Duis aute irure dolor in reprehenderit in voluptate velit esse
+						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					</article>
+
+					<article>
+						<hgroup><h2 class="titulo">¡Se acerca la beta de Halo 5!</h2></hgroup>
+						<p class="fecha">16 de septiembre del 2014</p>
+						<img class="thumb" src="imagenes/halo543.png" alt="thumbail halo543"/>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat.<br /><br />Duis aute irure dolor in reprehenderit in voluptate velit esse
+						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					</article>
+				</section>
+
+				<aside>
+					<section class="widget">
+						<h3>Articulos recientes</h3>
+						<ul>
+							<li><a href="#">Vestibulum vitae nibh a risus.</a></li>
+							<li><a href="#">Nullam rutrum nibh quis eros.</a></li>
+							<li><a href="#">Morbi mollis felis tincidunt.</a></li>
+							<li><a href="#">Etiam ac orci dictum diam.</a></li>
+							<li><a href="#">Cras in tellus id elit.</a></li>
+						</ul>
+					</section>
+					<section class="widget">
+						<h3>Articulo recomendado</h3>
+						<img src="imagenes/halo521.png"/>
+					</section>
+				</aside>
+
+			</section>
+
+			<footer>
+				<section id="Acerca-de">
+					<article>
+						<hgroup><h3>Acerca de la pagina</h3></hgroup>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					</article>
+				</section>
+				<section id="redes-s">
+					<div class="twitter"><a href="https://twitter.com/"></a></div>
+					<div class="facebook"><a href="https://www.facebook.com/alejandro.diaz.3304673"></a></div>
+					<div class="google-Plus"><a href="https://plus.google.com/u/0/111700219055633281089/about/p/pub"></a></div>
+					<div class="waypoint"><a href="https://www.halowaypoint.com/es-es"></a></div>
+				</section>
+
+			</footer>
+
+			<div id="copyright"><p>Copyright 2014 MNC Inc. Todos los derechos reservados.</p></div>
+
+		</section>
+
+	</body>
+</html>

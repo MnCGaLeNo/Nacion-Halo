@@ -1,0 +1,16 @@
+@font-face {
+	font-family: oswald;
+	src:url(../fuentes/oswald/Oswald-Regular.ttf);
+}
+@font-face {
+	font-family: oswald-light;
+	src:url(../fuentes/oswald/Oswald-Light.ttf);
+}
+@font-face {
+	font-family: montserrat;
+	src:url(../fuentes/Montserrat_Alternates/MontserratAlternates-Regular.ttf);
+}
+@font-face {
+	font-family: bree;
+	src:url(../fuentes/Bree_Serif/BreeSerif-Regular.ttf);
+}
